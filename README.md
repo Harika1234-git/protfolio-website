@@ -1,5 +1,5 @@
 # Harika Bandla - Portfolio
-🌐 **Live Portfolio:** https://protfolio-website-ten-taupe.vercel.app/
+🌐 **Live Portfolio:https://protfolio-website-r9weio92g-248r5a0502harika-8594s-projects.vercel.app/
 
 Welcome to my personal portfolio! This website showcases my journey as a Computer Science Engineering student with a passion for Artificial Intelligence, Machine Learning, Cloud Computing, and Full-Stack Development. It highlights my projects, certifications, technical skills, and internship experience while reflecting my continuous learning and growth in software engineering.
 

@@ -2,13 +2,13 @@
 
 🌐 **Live Portfolio:** https://your-portfolio-link.vercel.app/
 
-Welcome to my personal developer portfolio. This website showcases my skills, projects, certifications, and experience in software development, artificial intelligence, cloud computing, and web development.
+Welcome to my personal portfolio! This website showcases my journey as a Computer Science Engineering student with a passion for Artificial Intelligence, Machine Learning, Cloud Computing, and Full-Stack Development. It highlights my projects, certifications, technical skills, and internship experience while reflecting my continuous learning and growth in software engineering.
 
 ---
 
 ## 🚀 About This Project
 
-This portfolio website was built to showcase my technical skills, projects, certifications, achievements, and professional journey. It features a modern, responsive design that highlights my work and learning across AI, cloud technologies, and software development.
+This portfolio was developed to present my academic achievements, technical expertise, hands-on projects, certifications, and professional experience in an interactive and responsive platform. It demonstrates my ability to build AI-powered applications, develop full-stack web solutions, and apply cloud technologies to solve real-world problems.
 
 ---
 
@@ -25,37 +25,56 @@ This portfolio website was built to showcase my technical skills, projects, cert
 
 ## 📂 Featured Projects
 
+### 🩺 Hybrid Deep Learning Framework for Automated Lung Cancer Diagnosis
+
+A deep learning-based web application that combines **InceptionV3** and **Vision Transformer (ViT)** to classify CT/X-ray images into **Normal**, **Benign**, and **Malignant** categories with **99.54% accuracy**.
+
+🔗 **GitHub:** https://github.com/Harika1234-git/Lung-Cancer-detection
+
+---
+
 ### 🤟 Two-Way Sign Language Translator
 
-A deep learning-based application that translates sign language into text/speech and text into sign language using computer vision and machine learning.
+An AI-powered communication system that converts sign language into text and speech while translating text or speech back into sign language using **TensorFlow, OpenCV, MediaPipe, and Django**.
 
 🔗 **GitHub:** https://github.com/Harika1234-git/Two-Way-Sign-Language-Translator
 
 ---
 
-### 🩺 Lung Cancer Detection using Deep Learning
+### 🚗 Second-Hand Vehicle E-Commerce Website
 
-A web-based application that detects lung cancer from CT scan images using deep learning models, providing accurate predictions through an intuitive interface.
+A full-stack web application for buying and selling second-hand vehicles featuring Buyer, Seller, and Admin dashboards with secure authentication, role-based access, and MySQL integration.
 
-🔗 **GitHub:** https://github.com/Harika1234-git/Lung-Cancer-Detection
+🔗 **GitHub:** https://github.com/Harika1234-git/Second-Hand-Vehicle-E-Commerce-Website
 
 ---
 
 ## 📜 Certifications
 
-This portfolio includes certifications from:
+This portfolio features certifications from:
 
+- Salesforce
 - AWS Training & Certification
 - Oracle
 - ServiceNow
-- Salesforce
-- Cisco Networking Academy
-- Infosys Springboard
 - Google Cloud
 - Microsoft & AICTE
+- Cisco Networking Academy
+- Infosys Springboard
 - Deloitte (Forage)
 - Tata Group (Forage)
 - Hexart AI
+- iCAT
+
+---
+
+## 💼 Internship Experience
+
+**Microsoft Elevate (Supported by Microsoft & AICTE)**
+
+- 4-Week Virtual Internship in Power BI for Business Applications
+- Built interactive Power BI dashboards
+- Worked with Power Query, DAX, Data Modeling, and Business Intelligence concepts
 
 ---
 
@@ -67,7 +86,7 @@ Clone the repository:
 git clone https://github.com/Harika1234-git/HARIKA-portfolio.git
 ```
 
-Navigate to the project directory:
+Go to the project folder:
 
 ```bash
 cd HARIKA-portfolio
@@ -79,15 +98,15 @@ Install dependencies:
 npm install
 ```
 
-Run the development server:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Open your browser and visit:
+Open your browser:
 
-```
+```text
 http://localhost:5173
 ```
 
@@ -96,8 +115,9 @@ http://localhost:5173
 ## 📫 Connect with Me
 
 - **GitHub:** https://github.com/Harika1234-git
-- **LinkedIn:** https://www.linkedin.com/in/bandla-harika-0794a5347/
+- **LinkedIn:** https://www.linkedin.com/in/bandla-harika-0794a5347
+- **LeetCode:** https://leetcode.com/u/HARIKA_BANDLA02/
 
 ---
 
-⭐ If you like this portfolio, feel free to star the repository!
+⭐ Thank you for visiting my portfolio! Feel free to explore my projects, certifications, and connect with me for collaboration, internships, or software engineering opportunities.

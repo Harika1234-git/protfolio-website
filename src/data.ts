@@ -184,12 +184,12 @@ export const certificationsList: Certification[] = [
     category: 'AI & ML',
     credentialUrl: 'https://trailhead.salesforce.com/',
     skillsGained: ['Salesforce', 'AI Agents', 'Agentforce', 'NLP Integration', 'Copilot Setup'],
-    previewImage: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800',
+    previewImage: 'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=800',
     pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/salesforce.pdf',
     viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/salesforce.pdf'
   },
   {
-    {
+   
   title: 'AWS Cloud Practitioner Essentials',
   issuer: 'AWS Training & Certification',
   date: 'Jul 2025',
@@ -202,108 +202,184 @@ export const certificationsList: Certification[] = [
     'Cloud Security',
     'AWS Pricing and Support'
   ],
-  previewImage:'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80'',
+  previewImage: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800',
   pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/AWS%20Practioner.pdf',
   viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/AWS%20Practioner.pdf'
+
+  },
+  {
+  title: 'ServiceNow Certified Application Developer (CAD)',
+  issuer: 'ServiceNow',
+  date: 'May 2026',
+  category: 'Cloud',
+  credentialUrl: 'https://www.servicenow.com/services/training-and-certification.html',
+  skillsGained: [
+    'ServiceNow Application Development',
+    'App Engine Studio',
+    'Flow Designer',
+    'Business Rules',
+    'Script Includes'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/ServiceNow%20Certified%20Application%20Developer%20(CAD).pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/ServiceNow%20Certified%20Application%20Developer%20(CAD).pdf'
 },
-  },
+{
+  title: 'Oracle Cloud Infrastructure AI Foundations Associate',
+  issuer: 'Oracle',
+  date: 'Jul 2025',
+  category: 'Cloud',
+  credentialUrl: 'https://education.oracle.com/oracle-cloud-infrastructure-ai-foundations-associate/',
+  skillsGained: [
+    'Oracle Cloud Infrastructure (OCI)',
+    'Artificial Intelligence',
+    'Machine Learning Fundamentals',
+    'Generative AI',
+    'Cloud Computing'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/ORACLEeCertificate.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/ORACLEeCertificate.pdf'
+},
+{
+  title: 'Google Cloud Career Launchpad – Generative AI Leader Track',
+  issuer: 'Google Cloud',
+  date: 'Feb 2026',
+  category: 'AI & ML',
+  credentialUrl: 'https://www.cloudskillsboost.google/',
+  skillsGained: [
+    'Generative AI',
+    'Google Cloud Platform (GCP)',
+    'Large Language Models (LLMs)',
+    'Prompt Engineering',
+    'Cloud AI Services'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/gOhATqme.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/gOhATqme.pdf'
+},
   {
-    title: 'Hexart AI',
-    issuer: 'Hexart AI',
-    date: 'Aug 2025',
-    category: 'AI & ML',
-    credentialUrl: '#',
-    skillsGained: ['Machine Learning', 'Deep Learning', 'Neural Networks', 'Python', 'Model Evaluation', 'Hyperparameter Tuning'],
-    previewImage: 'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/hexart-ai.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/hexart-ai.pdf'
-  },
+  title: 'AI Advanced',
+  issuer: 'Hexart AI',
+  date: 'Aug 2025',
+  category: 'AI & ML',
+  credentialUrl: 'https://hexart.in/',
+  skillsGained: [
+    'Machine Learning',
+    'Deep Learning',
+    'Artificial Intelligence',
+    'AI Robotics',
+    'Python',
+    'Hands-on AI Projects'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/Hexart(advanced).pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/Hexart(advanced).pdf'
+},
+{
+  title: 'Artificial Intelligence & Machine Learning',
+  issuer: 'AICTE & Microsoft Elevate',
+  date: 'Mar 2026',
+  category: 'AI & ML',
+  credentialUrl: 'https://internship.aicte-india.org/',
+  skillsGained: [
+    'Artificial Intelligence',
+    'Machine Learning',
+    'Python',
+    'Data Analysis',
+    'Microsoft AI Technologies',
+    'Emerging Technologies'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/ai%20and%20ml.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/ai%20and%20ml.pdf'
+},
   {
-    title: 'Deloitte Job Simulation',
-    issuer: 'Deloitte',
-    date: 'May 2025',
-    category: 'Professional',
-    credentialUrl: '#',
-    skillsGained: ['Cloud Migration Strategy', 'API Specification', 'Technology Consulting', 'Enterprise Architecture', 'Business Presentation'],
-    previewImage: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/deloitte.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/deloitte.pdf'
-  },
+  title: 'Data Analytics Job Simulation',
+  issuer: 'Deloitte (Forage)',
+  date: 'Jul 2025',
+  category: 'Professional',
+  credentialUrl: 'https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy',
+  skillsGained: [
+    'Data Analysis',
+    'Forensic Technology',
+    'Data Visualization',
+    'Business Insights',
+    'Analytical Thinking'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/deloitee%20harika.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/deloitee%20harika.pdf'
+},
   {
-    title: 'Tata iQ Job Simulation',
-    issuer: 'Tata iQ',
-    date: 'Mar 2025',
-    category: 'Professional',
-    credentialUrl: '#',
-    skillsGained: ['Tableau', 'Data Analysis', 'Business Intelligence', 'Excel Dashboards', 'Visual Storytelling'],
-    previewImage: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/tata-iq.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/tata-iq.pdf'
-  },
+  title: 'Internship Common Aptitude Test (iCAT)',
+  issuer: 'iCAT',
+  date: 'Apr 2026',
+  category: 'Assessment',
+  credentialUrl: 'https://icat.in/',
+  skillsGained: [
+    'Aptitude',
+    'Logical Reasoning',
+    'Quantitative Ability',
+    'Problem Solving',
+    'Analytical Thinking'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/icat.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/icat.pdf'
+},
   {
-    title: 'Python Essentials 1',
-    issuer: 'Cisco Networking Academy',
-    date: 'Feb 2025',
-    category: 'Software Engineering',
-    credentialUrl: '#',
-    skillsGained: ['Python', 'Object-Oriented Programming', 'Algorithms', 'Basic Syntax'],
-    previewImage: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/python-essentials-1.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/python-essentials-1.pdf'
-  },
+  title: 'GenAI Powered Data Analytics Job Simulation',
+  issuer: 'Tata Group (Forage)',
+  date: 'Jul 2025',
+  category: 'Professional',
+  credentialUrl: 'https://www.theforage.com/simulations/tata/data-analytics',
+  skillsGained: [
+    'Exploratory Data Analysis',
+    'Risk Profiling',
+    'Predictive Analytics',
+    'Generative AI',
+    'Data Storytelling',
+    'AI-Driven Business Strategy'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/tata%20harika.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/tata%20harika.pdf'
+},
   {
-    title: 'Introduction to Data Science',
-    issuer: 'Cisco Networking Academy',
-    date: 'Mar 2025',
-    category: 'AI & ML',
-    credentialUrl: '#',
-    skillsGained: ['Data Analysis', 'Statistics', 'Data Visualization', 'Python'],
-    previewImage: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/introduction-to-data-science.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/introduction-to-data-science.pdf'
-  },
+  title: 'Networking Basics',
+  issuer: 'Cisco Networking Academy',
+  date: 'Dec 2025',
+  category: 'Networking',
+  credentialUrl: 'https://www.netacad.com/courses/networking-basics',
+  skillsGained: [
+    'Network Protocols',
+    'OSI Model',
+    'IP Addressing',
+    'Routing',
+    'Switching'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/cisco%20network.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/cisco%20network.pdf'
+},
+ 
   {
-    title: 'Network Basics',
-    issuer: 'Cisco Networking Academy',
-    date: 'Jan 2025',
-    category: 'Networking',
-    credentialUrl: '#',
-    skillsGained: ['Network Protocols', 'Subnetting', 'Routing', 'Switching', 'OSI Model'],
-    previewImage: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/network-basics.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/network-basics.pdf'
-  },
-  {
-    title: 'Introduction to IoT',
-    issuer: 'Cisco Networking Academy',
-    date: 'Jan 2025',
-    category: 'Networking',
-    credentialUrl: '#',
-    skillsGained: ['IoT Architecture', 'Sensors', 'Smart Devices', 'Embedded Systems', 'Network Connectivity'],
-    previewImage: 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/introduction-to-iot.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/introduction-to-iot.pdf'
-  },
-  {
-    title: 'Artificial Intelligence Primer',
-    issuer: 'Infosys Springboard',
-    date: 'Nov 2024',
-    category: 'AI & ML',
-    credentialUrl: '#',
-    skillsGained: ['AI Core Concepts', 'Search Algorithms', 'Knowledge Representation', 'Machine Learning Intro'],
-    previewImage: 'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/infosys-ai-primer.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/infosys-ai-primer.pdf'
-  },
-  {
-    title: 'Generative AI',
-    issuer: 'Infosys Springboard',
-    date: 'Jan 2025',
-    category: 'AI & ML',
-    credentialUrl: '#',
-    skillsGained: ['Generative Models', 'LLMs', 'Prompt Engineering', 'Transformer Architectures', 'AI Safety'],
-    previewImage: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800',
-    pdfUrl: 'https://raw.githubusercontent.com/sharanya-1521/portfolio-assets/main/certificates/infosys-generative-ai.pdf',
-    viewUrl: 'https://github.com/sharanya-1521/portfolio-assets/blob/main/certificates/infosys-generative-ai.pdf'
-  }
+  title: 'Artificial Intelligence Primer',
+  issuer: 'Infosys Springboard',
+  date: 'Dec 2025',
+  category: 'AI & ML',
+  credentialUrl: 'https://infyspringboard.onwingspan.com/web/en/home',
+  skillsGained: [
+    'Artificial Intelligence',
+    'AI Core Concepts',
+    'Search Algorithms',
+    'Knowledge Representation',
+    'Machine Learning Fundamentals'
+  ],
+  previewImage: 'https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=800',
+  pdfUrl: 'https://raw.githubusercontent.com/Harika1234-git/Protfolio-assets/main/certificates/infosis%20prime.pdf',
+  viewUrl: 'https://github.com/Harika1234-git/Protfolio-assets/blob/main/certificates/infosis%20prime.pdf'
+},
+  
 ];

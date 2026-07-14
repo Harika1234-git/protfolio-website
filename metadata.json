@@ -1,0 +1,6 @@
+{
+  "name": "BANDLA HARIKA Portfolio",
+  "description": "Premium personal portfolio website for BANDLA HARIKA, Aspiring Software Engineer & AI/ML Enthusiast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

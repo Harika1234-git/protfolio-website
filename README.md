@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sharanya Dyavanandi - Portfolio
 
 🌐 Live Portfolio: https://sharanya-portfolio-bay.vercel.app/
@@ -50,3 +51,5 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/sharanya-1521/sharanya-portfolio.git
+```
+
